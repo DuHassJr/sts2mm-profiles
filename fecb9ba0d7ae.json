@@ -1,0 +1,309 @@
+{
+  "name": "Just a Tad bit Horny",
+  "game_version": null,
+  "created_by": "DuHassJr",
+  "mods": [
+    {
+      "name": "Acheron",
+      "version": "v0.4.4",
+      "source": null,
+      "hash": "5893f014570c6c739622c7d97ab78d9c618e58d612a4a05571fc82931089167e",
+      "files": [
+        "Acheron\\Acheron.dll",
+        "Acheron\\Acheron.json",
+        "Acheron\\Acheron.pck"
+      ],
+      "folder_name": "Acheron",
+      "mod_id": "Acheron",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_2f6df42f.zip",
+      "bundle_sha256": "2f6df42fbfe056cac937aa6a2f7bd2185cd3bc30117c285cd46a7cf7e4d35e19"
+    },
+    {
+      "name": "ATA_Merchant",
+      "version": "unknown",
+      "source": null,
+      "hash": "ccb9ddccaf8760805d4627ed440bab1a486cb2ac6154fd5b5943942cf99dba3e",
+      "files": [
+        "ATA_Merchant.dll",
+        "ATA_Merchant.pck"
+      ],
+      "folder_name": "ATA_Merchant",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/ATA_Merchant_vunknown_a4ebee9d.zip",
+      "bundle_sha256": "a4ebee9d94f2cab7ad42b798b4b7097b61d2f34b5c01f58ed13c5ab6a6911b7b"
+    },
+    {
+      "name": "BaseLib",
+      "version": "v3.2.0",
+      "source": null,
+      "hash": "cb6b2eccea2fab44ecebd6346fc6d6448537197bcda863b71ac040cb86484e8a",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_7ef0fb69.zip",
+      "bundle_sha256": "7ef0fb691fe6abe4afec8f9f942f145cd3467fa08f3e3912981bcb5c29d00dd0"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.4",
+      "source": null,
+      "hash": "99dc1d2f27633e681878f02c061be1d86f38a358e77298d0227ec7ed4d4483d3",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.4_e7177665.zip",
+      "bundle_sha256": "e7177665d124d3516a0f48851a0bde31d59c5b1505b333ae41a4f52aa64b7038"
+    },
+    {
+      "name": "Kafka",
+      "version": "v0.12.2",
+      "source": null,
+      "hash": "3fe3981e68f9acc3066e46f0ca9885713f1a85a9347c2365fe3a40361e8194ac",
+      "files": [
+        "Kafka\\Kafka.dll",
+        "Kafka\\Kafka.json",
+        "Kafka\\Kafka.pck"
+      ],
+      "folder_name": "Kafka",
+      "mod_id": "Kafka",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_a118abae.zip",
+      "bundle_sha256": "a118abaea464ccb6889b16c733812727d7cdffa5cc46f2315f651bcc9033a716"
+    },
+    {
+      "name": "Necro_Icons",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "b27b6ac712c90fc77ff7b98d1e179c9ee8c53f943f46c461dbeba4b54b757b02",
+      "files": [
+        "Necro_Icons\\Necro_Icons.dll",
+        "Necro_Icons\\Necro_Icons.json",
+        "Necro_Icons\\Necro_Icons.pck"
+      ],
+      "folder_name": "Necro_Icons",
+      "mod_id": "Necro_Icons",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Necro_Icons_v0.0.1_dd01903b.zip",
+      "bundle_sha256": "dd01903bd61f247d9952aa143e7c0ada87c2c363637d1aa1290e84b9a5eb7be7"
+    },
+    {
+      "name": "necrobinderSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "df139d67cf2ccbb6258caf71c53a91a4c38c1e463b1d35b8f5788b391e546184",
+      "files": [
+        "necrobinderSkin\\mod_manifest.json",
+        "necrobinderSkin\\necrobinderSkin.pck"
+      ],
+      "folder_name": "necrobinderSkin",
+      "mod_id": "necrobinderSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_8b713d20.zip",
+      "bundle_sha256": "8b713d209f46126fd6f56f3dba2f61276d81e18c5eb2de05b163ed1a8ce4a040"
+    },
+    {
+      "name": "Princess",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "b0cf0c0dc43713605797781826c9f8b810fbadd43c4d91365d29dde3ca25b57b",
+      "files": [
+        "Princess\\Princess.dll",
+        "Princess\\Princess.json",
+        "Princess\\Princess.pck",
+        "Princess\\Princess.pdb"
+      ],
+      "folder_name": "Princess",
+      "mod_id": "Princess",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1_27b7c745.zip",
+      "bundle_sha256": "27b7c74556d49fa311dcb90dfe71d84ef5b14bcd4dc1d4dd7d69716fb0bf70aa"
+    },
+    {
+      "name": "Princess_Icons",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "cf6c2b87225a40e2f3c4e6dd48e92f456a0f61c7a0bd2dd0bdf0ba5dfdcf0a9a",
+      "files": [
+        "Princess_Icons\\Princess_Icons.dll",
+        "Princess_Icons\\Princess_Icons.json",
+        "Princess_Icons\\Princess_Icons.pck"
+      ],
+      "folder_name": "Princess_Icons",
+      "mod_id": "Princess_Icons",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_Icons_v0.0.1_5a8fae5e.zip",
+      "bundle_sha256": "5a8fae5ea9f821971ecca1738fc0189aa02fc84a3d113708466210de4a50b8b5"
+    },
+    {
+      "name": "Princess_Text",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "93b12667526fa7efabc1aa177d4f42db40c537d3ae5ee4746dd62d9e32efb7e0",
+      "files": [
+        "Princess_Text\\Princess_Text.dll",
+        "Princess_Text\\Princess_Text.json",
+        "Princess_Text\\Princess_Text.pck"
+      ],
+      "folder_name": "Princess_Text",
+      "mod_id": "Princess_Text",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_Text_v0.0.1_09038955.zip",
+      "bundle_sha256": "09038955a318fc8c01c96db972f0beab8ef8335316e3344fd225fd493324eca6"
+    },
+    {
+      "name": "regentSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "aa362fb5d7bbfcac08ede4c7390eab436fc9ab33903b3b05dcaed42bd7abe280",
+      "files": [
+        "regentSkin\\mod_manifest.json",
+        "regentSkin\\regentSkin.pck"
+      ],
+      "folder_name": "regentSkin",
+      "mod_id": "regentSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/regentSkin_v0.0.1_c7df5732.zip",
+      "bundle_sha256": "c7df573263033ff6eb8b8487b21af4e1dc129a0bf2cb20c00714bd25967cbb9a"
+    },
+    {
+      "name": "STS2 Skin Manager",
+      "version": "0.17.0",
+      "source": null,
+      "hash": "3eea38477cc918fc76b44cfa443bb2682781125828e77d3043dfdb079f393237",
+      "files": [
+        "Sts2SkinManager\\LICENSE",
+        "Sts2SkinManager\\modpack_preset.preset",
+        "Sts2SkinManager\\README.ko.md",
+        "Sts2SkinManager\\README.md",
+        "Sts2SkinManager\\Sts2SkinManager.dll",
+        "Sts2SkinManager\\Sts2SkinManager.json"
+      ],
+      "folder_name": "Sts2SkinManager",
+      "mod_id": "Sts2SkinManager",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/STS2_Skin_Manager_v0.17.0_9e632fdd.zip",
+      "bundle_sha256": "9e632fddd800ca7bc8570d46a14c846fc4d58dc63204009ec56c1f62a05a84f6"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath.dll",
+        "UnifiedSavePath.json",
+        "UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_c79afb48.zip",
+      "bundle_sha256": "c79afb48e47f5cd1ea3b1a6542bbbe077ccf48908d3bfb8f9048f5d72faf69fe"
+    },
+    {
+      "name": "Watcher",
+      "version": "v1.4.3",
+      "source": null,
+      "hash": "5d9d2852d229e062aea00b82fcc704042a9d972086b748e3a4e45b76b2894942",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_00237239.zip",
+      "bundle_sha256": "00237239f64abc4b6c13fb08d4e6cc7fbd254dcfb9dd29f24e02dea040861663"
+    },
+    {
+      "name": "ironcladSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "7dc147e25772a8babb3b924b0787106afa24730b0b8c180206651bd93b1581fc",
+      "files": [
+        "ironcladSkin\\ironcladSkin.pck",
+        "ironcladSkin\\mod_manifest.json"
+      ],
+      "folder_name": "ironcladSkin",
+      "mod_id": "ironcladSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/ironcladSkin_v0.0.1_00b73ba0.zip",
+      "bundle_sha256": "00b73ba0409a0be3be14921f506b6f75559982913984a383a870c8dcd2992446"
+    },
+    {
+      "name": "neowSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "00b3f3d0e6a325d7b513833d83079cbe70f133a64f0726810e398360ff31ed5b",
+      "files": [
+        "neowSkin\\neowSkin.pck",
+        "neowSkin\\neowSkinmod_manifest.json"
+      ],
+      "folder_name": "neowSkin",
+      "mod_id": "neowSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_1218b367.zip",
+      "bundle_sha256": "1218b3679ccbdd0539b7888b8ae704c4e694d2bdd9249e263faed239cc2ab5a1"
+    },
+    {
+      "name": "SIlentIcons",
+      "version": "v0.0.0",
+      "source": null,
+      "hash": "ae42aeff041737cb78030d76d60701e9aaddec669cf3609b2adcc931734028b3",
+      "files": [
+        "SIlentIcons\\SIlentIcons.dll",
+        "SIlentIcons\\SIlentIcons.json",
+        "SIlentIcons\\SIlentIcons.pck"
+      ],
+      "folder_name": "SIlentIcons",
+      "mod_id": "SIlentIcons",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/SIlentIcons_v0.0.0_79b12afa.zip",
+      "bundle_sha256": "79b12afa790452ace07db816689d8e2b055d204a42c7abc80f8db112ae942303"
+    },
+    {
+      "name": "silentSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "b137ebd5dde9fbf07adba96cf898e217d88453395dbf6a91c9ce1966819210d3",
+      "files": [
+        "silentSkin\\mod_manifest.json",
+        "silentSkin\\silentSkin.pck"
+      ],
+      "folder_name": "silentSkin",
+      "mod_id": "silentSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_ea47bfea.zip",
+      "bundle_sha256": "ea47bfea996fc77531acfd1ba39647ec37c8f41f0617c4073f135f8134d2b2d1"
+    }
+  ],
+  "created_at": "2026-06-08T03:16:49.517576700Z",
+  "updated_at": "2026-06-08T03:17:14.813219700Z",
+  "public": false
+}

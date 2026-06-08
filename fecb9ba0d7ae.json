@@ -16,8 +16,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_0467c696.zip",
-      "bundle_sha256": "0467c6966ff46dbf30283608b6a17c91c12630484142fbf6c67f7016727f536a"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_f99e9261.zip",
+      "bundle_sha256": "f99e9261b26d823d1532db4492320da3b37b2934d6ecca7f4208a07276d14f8f"
     },
     {
       "name": "RitsuLib (STS2 0.103.2 compat)",
@@ -32,8 +32,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.10_63a4367d.zip",
-      "bundle_sha256": "63a4367d53f591acb097772da8de711eaf63eda989553b3bac77e9204c082e2f"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.10_ef6779e2.zip",
+      "bundle_sha256": "ef6779e28c50016a5ab4d865831b1073d00aa152e1ac375ca80b1b1a2d54e71f"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -48,8 +48,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_2ee563cb.zip",
-      "bundle_sha256": "2ee563cbda03e6097aa8fbf583e7d264bea2ac56713c68fac3cce9d5a98bf391"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_93ed7091.zip",
+      "bundle_sha256": "93ed709167e23671ea1c8e12403d7e879c8afee870e0ce7f16d9926b5ad9fc81"
     },
     {
       "name": "Acheron",
@@ -64,8 +64,8 @@
       "folder_name": "Acheron",
       "mod_id": "Acheron",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_440fb9ff.zip",
-      "bundle_sha256": "440fb9ff71b3992311757f568abbb475ab0354f7840e1c43bbc6f0d944e4cd34"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_5dc1fc74.zip",
+      "bundle_sha256": "5dc1fc74ca06c27aa9a83f41d3aafc4d51d57ac7d5429042496572f00894237a"
     },
     {
       "name": "ATA_Merchant",
@@ -78,8 +78,8 @@
       ],
       "folder_name": "ATA_Merchant",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/ATA_Merchant_vunknown_d4d38d38.zip",
-      "bundle_sha256": "d4d38d38f91f6441716202c4f7ecabadb5b63a290b9d82a7fa4b70dc5d24ba1d"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/ATA_Merchant_vunknown_5f7951d7.zip",
+      "bundle_sha256": "5f7951d756220887488b6fcc9ba35e8a047aec78106549d31c659993273bc362"
     },
     {
       "name": "Kafka",
@@ -94,8 +94,8 @@
       "folder_name": "Kafka",
       "mod_id": "Kafka",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_457b449f.zip",
-      "bundle_sha256": "457b449fcda956807e335c82abaf3837b91f3fd70946de8b9b895267b181b8f0"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_dfc8ebab.zip",
+      "bundle_sha256": "dfc8ebab8ff0acfab86eab896c692246398f2ab7a81518ae14a0330eca5ee551"
     },
     {
       "name": "Necro_Icons",
@@ -110,23 +110,8 @@
       "folder_name": "Necro_Icons",
       "mod_id": "Necro_Icons",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Necro_Icons_v0.0.1_c39b773a.zip",
-      "bundle_sha256": "c39b773ab2ea007063bf5f1895d11eec4e8ca21ff3edccb11c2d4c0468f0235d"
-    },
-    {
-      "name": "necrobinderSkin",
-      "version": "0.0.1",
-      "source": null,
-      "hash": "df139d67cf2ccbb6258caf71c53a91a4c38c1e463b1d35b8f5788b391e546184",
-      "files": [
-        "necrobinderSkin\\mod_manifest.json",
-        "necrobinderSkin\\necrobinderSkin.pck"
-      ],
-      "folder_name": "necrobinderSkin",
-      "mod_id": "necrobinderSkin",
-      "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_b978fa55.zip",
-      "bundle_sha256": "b978fa552e07650b843798fbca033068b396e4777254cc390e16486c80307e41"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Necro_Icons_v0.0.1_3318671c.zip",
+      "bundle_sha256": "3318671c554959a4494d9b53bb6ffa930a95d99fe5f6843ea1b8ea8f8cc5a9b3"
     },
     {
       "name": "Princess",
@@ -142,8 +127,8 @@
       "folder_name": "Princess",
       "mod_id": "Princess",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1_6b8fc78b.zip",
-      "bundle_sha256": "6b8fc78b90138c24cfe702040da709fb1e5eae20792c5a6acab49af838ededd2"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1_0fff10c8.zip",
+      "bundle_sha256": "0fff10c8b2374a0685e62e5ab6f4ae901cdab3f2e1dd2740e2b312d2beedb47f"
     },
     {
       "name": "Princess_Icons",
@@ -158,8 +143,8 @@
       "folder_name": "Princess_Icons",
       "mod_id": "Princess_Icons",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_Icons_v0.0.1_3d91a831.zip",
-      "bundle_sha256": "3d91a831be4f0bf1b3670f3567555fe93bc3bc06fd2d8832926a92c1fbf13697"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_Icons_v0.0.1_4384fdb0.zip",
+      "bundle_sha256": "4384fdb0046e9f4b133638117d73c22a0fb193d35de8dd7b9325fbe9a94e6ae5"
     },
     {
       "name": "Princess_Text",
@@ -174,8 +159,8 @@
       "folder_name": "Princess_Text",
       "mod_id": "Princess_Text",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_Text_v0.0.1_88992dfe.zip",
-      "bundle_sha256": "88992dfe497f13e4d6bb23759766c7c19dac20c85ec9c227c1efee9e31bd2858"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_Text_v0.0.1_89a0a2ba.zip",
+      "bundle_sha256": "89a0a2baf64a9ecbe6ab58da57a30c4ce9a24ed133954b05a7b1b22464111ded"
     },
     {
       "name": "regentSkin",
@@ -189,8 +174,8 @@
       "folder_name": "regentSkin",
       "mod_id": "regentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/regentSkin_v0.0.1_647528c7.zip",
-      "bundle_sha256": "647528c75ec8b463c2793d480147dd783de8d5770111f468ce986cd620cd05bd"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/regentSkin_v0.0.1_98300e14.zip",
+      "bundle_sha256": "98300e14dba25434ea5ec9b1b1e26e44010d559ecc0fea8180d49c87bb49245c"
     },
     {
       "name": "STS2 Skin Manager",
@@ -208,8 +193,8 @@
       "folder_name": "Sts2SkinManager",
       "mod_id": "Sts2SkinManager",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/STS2_Skin_Manager_v0.17.0_2f35406a.zip",
-      "bundle_sha256": "2f35406ab577c85df8d9a33a0d27a882181e76d27423d80884afcf32eb30eb61"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/STS2_Skin_Manager_v0.17.0_2223c42a.zip",
+      "bundle_sha256": "2223c42af8327920bff6796625b1bcd8725487f779a1207dfb90d8cdb78f6b59"
     },
     {
       "name": "Unified Save Path",
@@ -224,8 +209,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_ffb8fd30.zip",
-      "bundle_sha256": "ffb8fd304262001045b1a77703d14a5d341b4b412f84937078c20e65a6ae844f"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_9572148f.zip",
+      "bundle_sha256": "9572148f10ce16eaa7cde30bc4c224156c998ee0cddbed06a4e3facd8ded2d51"
     },
     {
       "name": "Watcher",
@@ -240,8 +225,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_615400ed.zip",
-      "bundle_sha256": "615400edd99c35f89fd8885d17988f0030c80d97481dfe0b1fd45edaad7e9fbd"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_bec71f11.zip",
+      "bundle_sha256": "bec71f112aa234bcd608550f5b325069a024b24cd78ffe2bcb518daca628600c"
     },
     {
       "name": "ironcladSkin",
@@ -255,8 +240,8 @@
       "folder_name": "ironcladSkin",
       "mod_id": "ironcladSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/ironcladSkin_v0.0.1_cf5547eb.zip",
-      "bundle_sha256": "cf5547ebded83198079650b7c0ca329d8932b090d9971cbb6d1f821712e8e310"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/ironcladSkin_v0.0.1_6ce8efc6.zip",
+      "bundle_sha256": "6ce8efc62768a5de0df4717b969799bd579ef6eabaf8440bee45049c230bd256"
     },
     {
       "name": "neowSkin",
@@ -270,8 +255,8 @@
       "folder_name": "neowSkin",
       "mod_id": "neowSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_3530d1df.zip",
-      "bundle_sha256": "3530d1dfc3a49c43aab80e80001a7ff44f60538b631f28f538039cda10d9d7d6"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_12b86d5a.zip",
+      "bundle_sha256": "12b86d5a3188f3bf82ee983d5240601036bd97b2783001a5fd0d55f724b6dd70"
     },
     {
       "name": "SIlentIcons",
@@ -286,8 +271,8 @@
       "folder_name": "SIlentIcons",
       "mod_id": "SIlentIcons",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/SIlentIcons_v0.0.0_d4a908fc.zip",
-      "bundle_sha256": "d4a908fca0db06bd1bbd14a0dcc455b21b4ba06a69976b78452a9cd0d6ebf240"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/SIlentIcons_v0.0.0_57ad1180.zip",
+      "bundle_sha256": "57ad1180bf807503909416f3af78580f9dd0068bccedd82865eb3922ca1a4e2f"
     },
     {
       "name": "silentSkin",
@@ -301,8 +286,8 @@
       "folder_name": "silentSkin",
       "mod_id": "silentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_bea7e141.zip",
-      "bundle_sha256": "bea7e1415ed22d2f0301f57b23504c2a0c67edab1b7a25679d1af51263a7810d"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_0e5b480f.zip",
+      "bundle_sha256": "0e5b480fb2e47737548d318173059500a03cc7791a413110279121ffa7a52a74"
     },
     {
       "name": "VoiceModFramework",
@@ -483,8 +468,8 @@
       "folder_name": "VoiceModFramework V1.12",
       "mod_id": "voicemod",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/VoiceModFramework_v1.0.0_98f269c0.zip",
-      "bundle_sha256": "98f269c0e30e2ff9b750412ae06e4b150f25ce5498c19c38ba6734fd2665d772"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/VoiceModFramework_v1.0.0_dc0df3f8.zip",
+      "bundle_sha256": "dc0df3f8c92cdc9f9ca0dedac2ad19d4f5d59a7b37414dbc127faa447bcaa80b"
     },
     {
       "name": "M4A1TacticalWaifu",
@@ -499,8 +484,8 @@
       "folder_name": "M4A1",
       "mod_id": "M4A1TacticalWaifu",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/M4A1TacticalWaifu_v1.0.0_817eff75.zip",
-      "bundle_sha256": "817eff7539ee5bbaaf528e00deb9db9fabf838219597196fe85133723feb77fb"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/M4A1TacticalWaifu_v1.0.0_26cefef1.zip",
+      "bundle_sha256": "26cefef1455363976ccfbe2a4f7a90ec1a918a3dd5192c873c763618a81078ce"
     },
     {
       "name": "Exusiai",
@@ -515,11 +500,26 @@
       "folder_name": "Exusiai",
       "mod_id": "exusiai",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Exusiai_v1.0.3_76add20f.zip",
-      "bundle_sha256": "76add20f0125df86029948d79a9eea42481aa5f2b450716c205ed09ff3a672df"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Exusiai_v1.0.3_577fd484.zip",
+      "bundle_sha256": "577fd4846dc7f7d2066e943db70fba709f7a0d0d5ea763dd16824cdabafb866a"
+    },
+    {
+      "name": "necrobinderSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "df139d67cf2ccbb6258caf71c53a91a4c38c1e463b1d35b8f5788b391e546184",
+      "files": [
+        "necrobinderSkin\\mod_manifest.json",
+        "necrobinderSkin\\necrobinderSkin.pck"
+      ],
+      "folder_name": "necrobinderSkin",
+      "mod_id": "necrobinderSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_0675ef95.zip",
+      "bundle_sha256": "0675ef950ba7a38f9849261e525d00bcb589d110f493ff040d075ea9b5db47f6"
     }
   ],
   "created_at": "2026-06-08T03:16:49.517576700Z",
-  "updated_at": "2026-06-08T05:21:08.665634700Z",
+  "updated_at": "2026-06-08T06:05:34.549586300Z",
   "public": false
 }

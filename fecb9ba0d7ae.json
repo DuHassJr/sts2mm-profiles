@@ -16,38 +16,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_13fdb6e3.zip",
-      "bundle_sha256": "13fdb6e390d67e75c91bc0f6eef2299c76d725af2aa5cc610e895cba9026acf4"
-    },
-    {
-      "name": "BetterSpire2",
-      "version": "v1.82.4",
-      "source": null,
-      "hash": "99dc1d2f27633e681878f02c061be1d86f38a358e77298d0227ec7ed4d4483d3",
-      "files": [
-        "BetterSpire2\\BetterSpire2.dll",
-        "BetterSpire2\\BetterSpire2.json",
-        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
-        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
-        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
-        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
-        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
-        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
-        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
-        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
-        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
-        "BetterSpire2\\BetterSpire2_localization\\README.txt",
-        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
-        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
-        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
-        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
-        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
-      ],
-      "folder_name": "BetterSpire2",
-      "mod_id": "BetterSpire2",
-      "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.4_eac5e6ab.zip",
-      "bundle_sha256": "eac5e6abc0879e9f6e3739109731eed1f20418a54c8ff292be6b7cbcc9e65ab0"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_0467c696.zip",
+      "bundle_sha256": "0467c6966ff46dbf30283608b6a17c91c12630484142fbf6c67f7016727f536a"
     },
     {
       "name": "RitsuLib (STS2 0.103.2 compat)",
@@ -62,8 +32,24 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.10_d42b73e8.zip",
-      "bundle_sha256": "d42b73e85fcd23bb1fea6cb5ff41aa9f2d969182cd6518c09de806af601b56e9"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.10_63a4367d.zip",
+      "bundle_sha256": "63a4367d53f591acb097772da8de711eaf63eda989553b3bac77e9204c082e2f"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_2ee563cb.zip",
+      "bundle_sha256": "2ee563cbda03e6097aa8fbf583e7d264bea2ac56713c68fac3cce9d5a98bf391"
     },
     {
       "name": "Acheron",
@@ -78,8 +64,8 @@
       "folder_name": "Acheron",
       "mod_id": "Acheron",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_6a526409.zip",
-      "bundle_sha256": "6a5264093a55cb84e9b78204d671daa4153eb954f212475ecff81c9b20390c04"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_440fb9ff.zip",
+      "bundle_sha256": "440fb9ff71b3992311757f568abbb475ab0354f7840e1c43bbc6f0d944e4cd34"
     },
     {
       "name": "ATA_Merchant",
@@ -92,8 +78,8 @@
       ],
       "folder_name": "ATA_Merchant",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/ATA_Merchant_vunknown_f1ebcdee.zip",
-      "bundle_sha256": "f1ebcdee49ea64ef0e594e694dac6e1ddc57680c4c353f602aecf8e8f4824a10"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/ATA_Merchant_vunknown_d4d38d38.zip",
+      "bundle_sha256": "d4d38d38f91f6441716202c4f7ecabadb5b63a290b9d82a7fa4b70dc5d24ba1d"
     },
     {
       "name": "Kafka",
@@ -108,8 +94,8 @@
       "folder_name": "Kafka",
       "mod_id": "Kafka",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_bf01a956.zip",
-      "bundle_sha256": "bf01a9568aada4a6a4931a40b29c3ffb77147856cc7af2dc15f2a9ab8aa27eac"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_457b449f.zip",
+      "bundle_sha256": "457b449fcda956807e335c82abaf3837b91f3fd70946de8b9b895267b181b8f0"
     },
     {
       "name": "Necro_Icons",
@@ -124,8 +110,8 @@
       "folder_name": "Necro_Icons",
       "mod_id": "Necro_Icons",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Necro_Icons_v0.0.1_25129df6.zip",
-      "bundle_sha256": "25129df6ab93465011246aa3fa02425b7804ca2d9ba5e6f14d45192cf7529381"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Necro_Icons_v0.0.1_c39b773a.zip",
+      "bundle_sha256": "c39b773ab2ea007063bf5f1895d11eec4e8ca21ff3edccb11c2d4c0468f0235d"
     },
     {
       "name": "necrobinderSkin",
@@ -139,8 +125,8 @@
       "folder_name": "necrobinderSkin",
       "mod_id": "necrobinderSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_94603a37.zip",
-      "bundle_sha256": "94603a37a112b6faf119e446b10bf93e075731bc40919e920f63153a55d1b29b"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_b978fa55.zip",
+      "bundle_sha256": "b978fa552e07650b843798fbca033068b396e4777254cc390e16486c80307e41"
     },
     {
       "name": "Princess",
@@ -156,8 +142,8 @@
       "folder_name": "Princess",
       "mod_id": "Princess",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1_93653f1b.zip",
-      "bundle_sha256": "93653f1b20fbeb89bf96490d2c33b3fb5124244a2b311652bd911904bd2f77af"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1_6b8fc78b.zip",
+      "bundle_sha256": "6b8fc78b90138c24cfe702040da709fb1e5eae20792c5a6acab49af838ededd2"
     },
     {
       "name": "Princess_Icons",
@@ -172,8 +158,8 @@
       "folder_name": "Princess_Icons",
       "mod_id": "Princess_Icons",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_Icons_v0.0.1_8323f107.zip",
-      "bundle_sha256": "8323f1076ca76a138c086703f13daf45cda4484c2f8d880b7c075acf87c407a1"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_Icons_v0.0.1_3d91a831.zip",
+      "bundle_sha256": "3d91a831be4f0bf1b3670f3567555fe93bc3bc06fd2d8832926a92c1fbf13697"
     },
     {
       "name": "Princess_Text",
@@ -188,8 +174,8 @@
       "folder_name": "Princess_Text",
       "mod_id": "Princess_Text",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_Text_v0.0.1_487374e5.zip",
-      "bundle_sha256": "487374e50f5b75a39266cdd0e68a1168defc0ea5bc7cad6fe3914124142ce352"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Princess_Text_v0.0.1_88992dfe.zip",
+      "bundle_sha256": "88992dfe497f13e4d6bb23759766c7c19dac20c85ec9c227c1efee9e31bd2858"
     },
     {
       "name": "regentSkin",
@@ -203,8 +189,8 @@
       "folder_name": "regentSkin",
       "mod_id": "regentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/regentSkin_v0.0.1_0a343f1c.zip",
-      "bundle_sha256": "0a343f1c60f1d0f05638430cd627b302bcb7f6781326696a76c68665048f8816"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/regentSkin_v0.0.1_647528c7.zip",
+      "bundle_sha256": "647528c75ec8b463c2793d480147dd783de8d5770111f468ce986cd620cd05bd"
     },
     {
       "name": "STS2 Skin Manager",
@@ -222,8 +208,8 @@
       "folder_name": "Sts2SkinManager",
       "mod_id": "Sts2SkinManager",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/STS2_Skin_Manager_v0.17.0_6a4db804.zip",
-      "bundle_sha256": "6a4db804be830ad92917296647f0f6a8509fd322f87a59f951bdc38eb1d16004"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/STS2_Skin_Manager_v0.17.0_2f35406a.zip",
+      "bundle_sha256": "2f35406ab577c85df8d9a33a0d27a882181e76d27423d80884afcf32eb30eb61"
     },
     {
       "name": "Unified Save Path",
@@ -238,8 +224,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_0f314cbc.zip",
-      "bundle_sha256": "0f314cbc7666ca112e9ef8d54072855882ad09a808a5d56e0bb05c73c7377e7f"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_ffb8fd30.zip",
+      "bundle_sha256": "ffb8fd304262001045b1a77703d14a5d341b4b412f84937078c20e65a6ae844f"
     },
     {
       "name": "Watcher",
@@ -254,8 +240,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_e2be1f97.zip",
-      "bundle_sha256": "e2be1f97a3133695fad511550c6601348d68edc6894be1ec36ec95cce82a714b"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_615400ed.zip",
+      "bundle_sha256": "615400edd99c35f89fd8885d17988f0030c80d97481dfe0b1fd45edaad7e9fbd"
     },
     {
       "name": "ironcladSkin",
@@ -269,8 +255,8 @@
       "folder_name": "ironcladSkin",
       "mod_id": "ironcladSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/ironcladSkin_v0.0.1_46ee2546.zip",
-      "bundle_sha256": "46ee25462e3a000a04c4359c22a4b53e6eedf22ff88a03169cec353f8a2c8a12"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/ironcladSkin_v0.0.1_cf5547eb.zip",
+      "bundle_sha256": "cf5547ebded83198079650b7c0ca329d8932b090d9971cbb6d1f821712e8e310"
     },
     {
       "name": "neowSkin",
@@ -284,8 +270,8 @@
       "folder_name": "neowSkin",
       "mod_id": "neowSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_e5b3e676.zip",
-      "bundle_sha256": "e5b3e67664055fcbe02e1eb40587f6e0e68b2dd1550c74affd991086359b71fc"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_3530d1df.zip",
+      "bundle_sha256": "3530d1dfc3a49c43aab80e80001a7ff44f60538b631f28f538039cda10d9d7d6"
     },
     {
       "name": "SIlentIcons",
@@ -300,8 +286,8 @@
       "folder_name": "SIlentIcons",
       "mod_id": "SIlentIcons",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/SIlentIcons_v0.0.0_ca56d6b2.zip",
-      "bundle_sha256": "ca56d6b269fadd090f23d4e10cc910eaa094c736210eb2b1fc87df58c1fd844b"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/SIlentIcons_v0.0.0_d4a908fc.zip",
+      "bundle_sha256": "d4a908fca0db06bd1bbd14a0dcc455b21b4ba06a69976b78452a9cd0d6ebf240"
     },
     {
       "name": "silentSkin",
@@ -315,11 +301,225 @@
       "folder_name": "silentSkin",
       "mod_id": "silentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_cb580887.zip",
-      "bundle_sha256": "cb5808877d57e579ce7546b77e7596c3f01ff5313a4f5a3b9491c620e5560618"
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_bea7e141.zip",
+      "bundle_sha256": "bea7e1415ed22d2f0301f57b23504c2a0c67edab1b7a25679d1af51263a7810d"
+    },
+    {
+      "name": "VoiceModFramework",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "0273a2f898e3f06f8d80b190fa336025dad8aea972b1d12c1df7689eccc67f37",
+      "files": [
+        "VoiceModFramework V1.12\\description.md",
+        "VoiceModFramework V1.12\\font\\BebasKai-Regular.otf",
+        "VoiceModFramework V1.12\\font\\logotypejp_mp_b_1.1.ttf",
+        "VoiceModFramework V1.12\\font\\SCDream4.otf",
+        "VoiceModFramework V1.12\\icon.png",
+        "VoiceModFramework V1.12\\mod_manifest.json",
+        "VoiceModFramework V1.12\\regent_voicepack.json",
+        "VoiceModFramework V1.12\\textures\\Bubble.png",
+        "VoiceModFramework V1.12\\voicemod.dll",
+        "VoiceModFramework V1.12\\voices_regent\\block\\こんなものか？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\block\\効かぬ効かぬわ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\block\\星の加護とともに！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\block\\無作法な連中だな？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\block\\無駄だ！雑魚ども.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\block\\痛くもかゆくもないな？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\block\\貴様ごときに傷がつけられるわけがなかろう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\block\\雑魚の雑魚攻撃なんて効かないよ～.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\boss_start\\久々に手ごたえのありそうな相手だな！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\boss_start\\余の本気を引き出せるのはお前か？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\boss_start\\余を試すか！いい度胸だな！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\boss_victory\\どうだ？これが余の真の力だ！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\boss_victory\\ふははは！これこそが宿命というものだ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\boss_victory\\他の奴よりはやるみたいだが、所詮は格が違ったということだ。.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\boss_victory\\余の辞書に敗北の文字はない！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\buff\\余のきらめきがさらに増したな？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\buff\\余の威光に気圧されたか？みじめだな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\buff\\余の辞書に敗北はない！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\buff\\悪くないな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card\\くらえ！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card\\はぁ！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card\\はっ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card\\予測できぬように.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card\\余の権能を見せてやろう！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card\\余をあがめよ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card\\塵に帰れ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card\\晩餐の時だ！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card\\浄化！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card\\身の程をしりなさい.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card\\身の程をしれ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_big_bang\\余の星のきらめきが見えるか？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_big_bang\\天の光はすべて星！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_big_bang\\星々とともに歌おう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_big_bang\\星々のもとに！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_big_bang\\星の残光すら貴様にはまぶしすぎるだろう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_big_bang\\星辰は今揃った.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_gather_light\\余の星のきらめきが見えるか？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_gather_light\\天の光はすべて星！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_gather_light\\星々とともに歌おう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_gather_light\\星々のもとに！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_gather_light\\星の残光すら貴様にはまぶしすぎるだろう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_gather_light\\星辰は今揃った.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_glow\\余の星のきらめきが見えるか？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_glow\\天の光はすべて星！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_glow\\星々とともに歌おう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_glow\\星々のもとに！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_glow\\星の残光すら貴様にはまぶしすぎるだろう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_glow\\星辰は今揃った.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_hidden_cache\\余の星のきらめきが見えるか？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_hidden_cache\\天の光はすべて星！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_hidden_cache\\星々とともに歌おう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_hidden_cache\\星々のもとに！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_hidden_cache\\星の残光すら貴様にはまぶしすぎるだろう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_hidden_cache\\星辰は今揃った.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_royal_gamble\\余の星のきらめきが見えるか？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_royal_gamble\\天の光はすべて星！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_royal_gamble\\星々とともに歌おう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_royal_gamble\\星々のもとに！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_royal_gamble\\星の残光すら貴様にはまぶしすぎるだろう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_royal_gamble\\星辰は今揃った.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_sovereign_blade\\ソブリンブレード.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\余の星のきらめきが見えるか？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\天の光はすべて星！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\我が星光が空にきらめく.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\我が星光が邪悪を払う！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\我の力を見せてやろう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\星々とともに歌おう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\星々に貴様らの悲鳴を聞かせてやろう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\星々のもとに！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\星の力を見せてやろう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\星の残光すら貴様にはまぶしすぎるだろう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\星辰は今揃った.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\決定的！ 超越的！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_star\\重力子放射線！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_upgrade\\この力で雑魚どもを蹴散らしてやる！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_upgrade\\余がもっと強くなってしまうな！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_upgrade\\余の優雅さにさらに磨きがかかったな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_venerate\\余の星のきらめきが見えるか？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_venerate\\天の光はすべて星！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_venerate\\星々とともに歌おう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_venerate\\星々のもとに！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_venerate\\星の残光すら貴様にはまぶしすぎるだろう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\card_venerate\\星辰は今揃った.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\char_select\\あの男を打倒しに！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\char_select\\余と行くのか？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\combat_start\\あぁ～ちょっとは手加減してやらんとダメかもなぁ？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\combat_start\\いい知らせがあるなぁ？今日が貴様らの命日だ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\combat_start\\お手並み拝見といこうか.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\combat_start\\くふふ余の前にひざまずきなさい雑魚ども.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\combat_start\\さあ、余を楽しませてくれるんだろうな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\damage\\うぐっ...痛いではないか！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\damage\\むぅ！やったな！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\damage\\余によくも傷をつけてくれたな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\damage\\服が汚れるではないか！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\damage\\覚えておけよ！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\damage_partial\\うっ！痛くなんかないんだからな！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\damage_partial\\なぁ！ありえん！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\damage_partial\\んぁ！雑魚の雑魚攻撃なんて聞かないんだからな！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\damage_partial\\星の加護が！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\damage_partial\\防ぎきれないなんて…！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\debuff\\うっ！不敬だぞ！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\debuff\\不快な干渉だ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\debuff\\余の輝きが曇るではないか！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\debuff\\味な真似を...！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\debuff\\小細工を！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\debuff_apply\\ざ～こざこざこ～.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\debuff_apply\\ほらほらもっと頑張りなさい？余は退屈してるわ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\debuff_apply\\ほら頑張れ？もうちょっとで余に勝てるかもしれないぞ？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\debuff_apply\\姿勢が崩れたな？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\debuff_apply\\揺らいだな？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\defeat\\もっと頑張らないと.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\elite_start\\ほう、なかなかの面構えではないか。.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\elite_start\\余に挑もうとは、いい度胸だな？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\elite_start\\先ほどの奴らよりはやるようだな？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\elite_start\\星の裁きを受けよ！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\elite_victory\\これでも余に挑むには百年早かったな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\elite_victory\\なかなかやるな？だが余の敵ではなかったな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\elite_victory\\もう少し手応えがあると思ったんだがな？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\elite_victory\\余に挑むには百年早かったな？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\elite_victory\\先ほどの連中よりは手ごたえがあったな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\idle\\くふふ、今日も余は最高だな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\idle\\余は退屈しておるぞ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\idle\\暇だな….ogg",
+        "VoiceModFramework V1.12\\voices_regent\\kill\\ざ～こ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\kill\\塵へと帰ったか.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\kill\\失せよ！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\kill\\邪魔者はいなくなったな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\kill\\雑魚め.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\low_hp\\くっ…余がここまで追い詰められるとは！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\low_hp\\余が…負けるのか…？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\low_hp\\星々が…揺らいでいる…！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\potion_use\\これでもくらえ！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\potion_use\\ほら、薬だぞ？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\potion_use\\ポーション！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\rest_site\\やっと休める.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\rest_site\\休憩にしよう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\rest_site\\少し疲れたな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\shop_buy\\ふむ、これは使えそうだな！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\shop_buy\\余にふさわしいものだな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\shop_buy\\余の目に狂いはない.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\shop_buy\\使えそうだ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\star_gain\\余の星のきらめきが見えるか？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\star_gain\\天の光はすべて星！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\star_gain\\星々とともに歌おう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\star_gain\\星々のもとに！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\star_gain\\星の残光すら貴様にはまぶしすぎるだろう.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\star_gain\\星辰は今揃った.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\subtitles_en.json",
+        "VoiceModFramework V1.12\\voices_regent\\subtitles_ja.json",
+        "VoiceModFramework V1.12\\voices_regent\\subtitles_ko.json",
+        "VoiceModFramework V1.12\\voices_regent\\subtitles_zhs.json",
+        "VoiceModFramework V1.12\\voices_regent\\treasure\\お宝だ！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\treasure\\余にふさわしいものだな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\treasure\\余への貢ぎ物か？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\victory\\はは！宇宙は余を中心に回っている！.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\victory\\チェックメイト！私の勝ちだな.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\victory\\余が戦ったからには当然だな？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\victory\\塵すら残らなかったなぁ？もっと芸のあるやつはいないのか？.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\victory\\当然の勝利だな次に余を楽しませてくれるのは何なんだ.ogg",
+        "VoiceModFramework V1.12\\voices_regent\\victory\\退屈な相手だったな.ogg"
+      ],
+      "folder_name": "VoiceModFramework V1.12",
+      "mod_id": "voicemod",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/VoiceModFramework_v1.0.0_98f269c0.zip",
+      "bundle_sha256": "98f269c0e30e2ff9b750412ae06e4b150f25ce5498c19c38ba6734fd2665d772"
+    },
+    {
+      "name": "M4A1TacticalWaifu",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "f01528eb63c492b8e263180ddee5938153634aec7772d06fe412921b8916c675",
+      "files": [
+        "M4A1\\M4A1TacticalWaifu.dll",
+        "M4A1\\M4A1TacticalWaifu.pck",
+        "M4A1\\mod_manifest.json"
+      ],
+      "folder_name": "M4A1",
+      "mod_id": "M4A1TacticalWaifu",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/M4A1TacticalWaifu_v1.0.0_817eff75.zip",
+      "bundle_sha256": "817eff7539ee5bbaaf528e00deb9db9fabf838219597196fe85133723feb77fb"
+    },
+    {
+      "name": "Exusiai",
+      "version": "v1.0.3",
+      "source": null,
+      "hash": "0cb613254bd60331c412b1e786f09cae24bb20235313833d8cd22a8a674bde5b",
+      "files": [
+        "Exusiai\\Exusiai.dll",
+        "Exusiai\\Exusiai.json",
+        "Exusiai\\Exusiai.pck"
+      ],
+      "folder_name": "Exusiai",
+      "mod_id": "exusiai",
+      "enabled": true,
+      "bundle_url": "https://github.com/DuHassJr/sts2mm-profiles/releases/download/bundles/Exusiai_v1.0.3_76add20f.zip",
+      "bundle_sha256": "76add20f0125df86029948d79a9eea42481aa5f2b450716c205ed09ff3a672df"
     }
   ],
   "created_at": "2026-06-08T03:16:49.517576700Z",
-  "updated_at": "2026-06-08T05:01:45.301457800Z",
+  "updated_at": "2026-06-08T05:21:08.665634700Z",
   "public": false
 }
